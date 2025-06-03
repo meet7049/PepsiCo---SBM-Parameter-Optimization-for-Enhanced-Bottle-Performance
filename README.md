@@ -1,1 +1,1 @@
-# PepsiCo---SBM-Parameter-Optimization-for-Enhanced-Bottle-Performance
+# PepsiCo SBM-Parameter-Optimization-for-Enhanced-Bottle-Performance
